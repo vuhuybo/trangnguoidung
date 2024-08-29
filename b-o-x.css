@@ -1,0 +1,237 @@
+.box-child {
+  position: absolute;
+  top: 0;
+  left: -352px;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 333px;
+}
+.bestseller5 {
+  position: absolute;
+  top: 72px;
+  left: 30px;
+  display: flex;
+  align-items: flex-end;
+  width: 139px;
+  height: 12px;
+}
+.hoodie-bodysuits,
+.jacket-sweater,
+.o-t-shirt1,
+.o-thun3,
+.top-tanks,
+.tt-c-sn1,
+.tt-c-sn2 {
+  position: absolute;
+  top: 72px;
+  left: 138px;
+  display: flex;
+  align-items: flex-end;
+  width: 139px;
+  height: 12px;
+}
+.hoodie-bodysuits,
+.jacket-sweater,
+.o-t-shirt1,
+.o-thun3,
+.top-tanks,
+.tt-c-sn2 {
+  left: 294px;
+}
+.hoodie-bodysuits,
+.jacket-sweater,
+.o-t-shirt1,
+.o-thun3,
+.top-tanks {
+  top: 99px;
+  left: 138px;
+}
+.hoodie-bodysuits,
+.jacket-sweater,
+.o-thun3,
+.top-tanks {
+  top: 123px;
+}
+.hoodie-bodysuits,
+.jacket-sweater,
+.top-tanks {
+  top: 146px;
+}
+.hoodie-bodysuits,
+.jacket-sweater {
+  top: 169px;
+}
+.hoodie-bodysuits {
+  top: 192px;
+}
+.giy-bng,
+.giy-bng-r,
+.giy-chy,
+.giy-gym,
+.m-balo,
+.new16,
+.sales8,
+.tt-c-sn3,
+.unisex {
+  position: absolute;
+  top: 97px;
+  left: 30px;
+  display: flex;
+  align-items: flex-end;
+  width: 139px;
+  height: 12px;
+}
+.giy-bng,
+.giy-bng-r,
+.giy-chy,
+.giy-gym,
+.m-balo,
+.sales8,
+.tt-c-sn3,
+.unisex {
+  top: 122px;
+}
+.giy-bng,
+.giy-bng-r,
+.giy-chy,
+.giy-gym,
+.m-balo,
+.tt-c-sn3,
+.unisex {
+  top: 146px;
+}
+.giy-bng,
+.giy-bng-r,
+.giy-chy,
+.giy-gym,
+.m-balo,
+.tt-c-sn3 {
+  top: 100px;
+  left: 294px;
+}
+.giy-bng,
+.giy-bng-r,
+.giy-chy,
+.giy-gym,
+.tt-c-sn3 {
+  left: 433px;
+}
+.giy-bng,
+.giy-bng-r,
+.giy-gym,
+.tt-c-sn3 {
+  top: 123px;
+}
+.giy-bng-r,
+.giy-gym,
+.tt-c-sn3 {
+  top: 146px;
+}
+.giy-gym,
+.tt-c-sn3 {
+  top: 169px;
+}
+.tt-c-sn3 {
+  top: 72px;
+}
+.knh-trekking {
+  top: 122px;
+  left: 294px;
+  width: 139px;
+  height: 12px;
+}
+.knh-trekking,
+.qun-o1,
+.th-loi,
+.tt-gng {
+  position: absolute;
+  display: flex;
+  align-items: flex-end;
+}
+.tt-gng {
+  top: 146px;
+  left: 294px;
+  width: 139px;
+  height: 12px;
+}
+.qun-o1,
+.th-loi {
+  top: 21px;
+}
+.th-loi {
+  left: 30px;
+  font-size: var(--font-size-lg);
+  width: 122px;
+  height: 28px;
+}
+.qun-o1 {
+  left: 138px;
+}
+.brands,
+.ph-kin6,
+.qun-o1 {
+  font-size: var(--font-size-lg);
+  width: 122px;
+  height: 28px;
+}
+.ph-kin6 {
+  position: absolute;
+  top: 21px;
+  left: 296px;
+  display: flex;
+  align-items: flex-end;
+}
+.brands {
+  top: 164px;
+  left: 294px;
+}
+.adidas,
+.brands,
+.giy1,
+.new-balance,
+.nike,
+.tt-c-sn5 {
+  position: absolute;
+  display: flex;
+  align-items: flex-end;
+}
+.giy1 {
+  top: 21px;
+  left: 433px;
+  font-size: var(--font-size-lg);
+  width: 122px;
+  height: 28px;
+}
+.adidas,
+.new-balance,
+.nike,
+.tt-c-sn5 {
+  top: 210px;
+  left: 295px;
+  width: 139px;
+  height: 12px;
+}
+.adidas,
+.new-balance,
+.nike {
+  top: 229px;
+}
+.new-balance,
+.nike {
+  top: 273px;
+}
+.nike {
+  top: 251px;
+}
+.box {
+  width: 714px;
+  position: relative;
+  height: 304px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

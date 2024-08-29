@@ -1,0 +1,13 @@
+.bestseller8 {
+  width: 174px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  text-decoration: underline;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-orangered);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 64px;
+}

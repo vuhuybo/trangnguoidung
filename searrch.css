@@ -1,0 +1,322 @@
+.searrch-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 812px;
+}
+.image-42-icon1 {
+  position: absolute;
+  top: 310px;
+  left: 114px;
+  width: 136px;
+  height: 161px;
+  object-fit: cover;
+}
+.blank-line3 {
+  margin: 0;
+}
+.o-thun-nike-container4 {
+  width: 100%;
+}
+.div12,
+.div13,
+.o-thun-nike-container3,
+.o-thun-nike-container5 {
+  position: absolute;
+  top: 252px;
+  left: 266px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 457px;
+  height: 152px;
+}
+.div12,
+.div13,
+.o-thun-nike-container5 {
+  top: 328px;
+  left: 1036px;
+  font-size: var(--font-size-6xl);
+  width: 166px;
+  height: 39px;
+}
+.div13,
+.o-thun-nike-container5 {
+  top: 498px;
+  left: 274px;
+  font-size: var(--font-size-5xl);
+  width: 449px;
+  height: 152px;
+}
+.div13 {
+  top: 577px;
+  left: 1036px;
+  font-size: var(--font-size-6xl);
+  width: 166px;
+  height: 39px;
+}
+.searrch-item {
+  position: absolute;
+  top: 556px;
+  left: 114px;
+  width: 136px;
+  height: 162px;
+  object-fit: cover;
+}
+.searrch-inner {
+  position: absolute;
+  top: 507px;
+  left: 85px;
+  background-color: var(--color-lightgray);
+  width: 1206px;
+  height: 2px;
+}
+.searrch-child1,
+.searrch-child2 {
+  position: absolute;
+  top: 270px;
+  left: 32px;
+  background-color: var(--color-orangered);
+  width: 1395px;
+  height: 2px;
+}
+.searrch-child2 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 1440px;
+  height: 69px;
+}
+.sport-1-icon3 {
+  position: absolute;
+  top: 94px;
+  left: 62px;
+  width: 220px;
+  height: 151px;
+  object-fit: cover;
+}
+.dress-in-the5 {
+  position: absolute;
+  top: 197px;
+  left: 123px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-weight: 700;
+  text-align: left;
+  width: 304px;
+  height: 12px;
+}
+.n5,
+.nam5,
+.ph-kin7,
+.sales11 {
+  position: absolute;
+  top: 159px;
+  left: 427px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 122px;
+  height: 31px;
+}
+.n5,
+.ph-kin7,
+.sales11 {
+  left: 535px;
+  width: 121px;
+}
+.ph-kin7,
+.sales11 {
+  left: 670px;
+  width: 122px;
+}
+.sales11 {
+  left: 807px;
+}
+.searrch-child3 {
+  position: absolute;
+  top: 150px;
+  left: 1001px;
+  border-radius: var(--br-18xl);
+  background-color: var(--color-gainsboro-200);
+  width: 237px;
+  height: 38px;
+}
+.h-tr14,
+.ng-k10,
+.ng-nhp8,
+.thng-bo7,
+.tm-kim6 {
+  position: absolute;
+  display: inline-block;
+  height: 18px;
+}
+.tm-kim6 {
+  top: 155px;
+  left: 1052px;
+  color: var(--color-gray-400);
+  text-align: left;
+  width: 120px;
+}
+.h-tr14,
+.ng-k10,
+.ng-nhp8,
+.thng-bo7 {
+  top: 25px;
+  left: 1309px;
+  font-family: var(--font-lato);
+  width: 118px;
+}
+.h-tr14,
+.ng-k10,
+.thng-bo7 {
+  left: 1204px;
+}
+.h-tr14,
+.thng-bo7 {
+  left: 995px;
+  width: 97px;
+}
+.h-tr14 {
+  left: 1104px;
+  width: 118px;
+}
+.searrch-child4,
+.searrch-child5 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.searrch-child4 {
+  top: 24.5px;
+  left: 1312.5px;
+  border-right: 1px solid var(--color-gray-500);
+  width: 1px;
+  height: 24px;
+}
+.searrch-child5 {
+  top: 188.5px;
+  left: 453.5px;
+  border-top: 3px solid var(--color-orangered);
+  width: 71px;
+  height: 3px;
+}
+.n-1-icon2 {
+  position: absolute;
+  top: 150px;
+  left: 1269px;
+  border-radius: var(--br-31xl);
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.icon-search7,
+.icon-shopping-bag7 {
+  position: absolute;
+  height: 3.46%;
+  width: 2.15%;
+  top: 16.51%;
+  right: 2.92%;
+  bottom: 80.03%;
+  left: 94.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-search7 {
+  height: 2.46%;
+  width: 2.06%;
+  top: 16.93%;
+  right: 27.6%;
+  bottom: 80.61%;
+  left: 70.35%;
+}
+.trang-ch8 {
+  position: absolute;
+  top: 21px;
+  left: 9px;
+  font-family: var(--font-lato);
+  display: inline-block;
+  width: 189px;
+  height: 13px;
+}
+.sport-4-icon1 {
+  position: absolute;
+  top: 94px;
+  left: 62px;
+  width: 220px;
+  height: 151px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.tm-kim7 {
+  position: absolute;
+  top: 158px;
+  left: 1059px;
+  display: inline-block;
+  color: var(--color-gray-400);
+  text-align: left;
+  width: 120px;
+  height: 18px;
+}
+.icon-shopping-bag8,
+.n-2-icon2 {
+  position: absolute;
+  cursor: pointer;
+}
+.n-2-icon2 {
+  top: 150px;
+  left: 1269px;
+  border-radius: var(--br-31xl);
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.icon-shopping-bag8 {
+  height: 3.46%;
+  width: 2.15%;
+  top: 16.51%;
+  right: 2.92%;
+  bottom: 80.03%;
+  left: 94.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.trang-ch9,
+.x {
+  position: absolute;
+}
+.trang-ch9 {
+  top: 21px;
+  left: 9px;
+  font-family: var(--font-lato);
+  display: inline-block;
+  width: 189px;
+  height: 13px;
+  cursor: pointer;
+}
+.x {
+  top: 159px;
+  left: 1207px;
+  font-size: var(--font-size-6xl);
+  display: flex;
+  color: var(--color-orangered);
+  text-align: left;
+  align-items: center;
+  width: 26px;
+  height: 21px;
+}
+.searrch {
+  width: 1440px;
+  position: relative;
+  height: 939px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

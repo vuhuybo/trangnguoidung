@@ -1,0 +1,86 @@
+.image-34-icon3,
+.image-34-icon4,
+.image-34-icon5 {
+  position: absolute;
+  top: 759px;
+  left: 528px;
+  width: 132px;
+  height: 142px;
+  object-fit: cover;
+}
+.image-34-icon4,
+.image-34-icon5 {
+  left: 235px;
+  width: 128px;
+}
+.image-34-icon5 {
+  left: 77px;
+  width: 140px;
+}
+.property-1default-child,
+.property-1default-item {
+  position: absolute;
+  top: 63px;
+  left: 77px;
+  width: 583px;
+  height: 655px;
+  object-fit: cover;
+}
+.property-1default-item {
+  top: 759px;
+  left: 380px;
+  width: 131px;
+  height: 142px;
+}
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: var(--color-white);
+  width: 735px;
+  height: 1023px;
+  overflow: hidden;
+}
+.image-35-icon {
+  position: absolute;
+  top: 73px;
+  left: 77px;
+  width: 583px;
+  height: 655px;
+  object-fit: cover;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 1063px;
+  left: 20px;
+  background-color: var(--color-white);
+  width: 735px;
+  height: 1023px;
+  overflow: hidden;
+}
+.image-35-icon1 {
+  position: absolute;
+  top: 59px;
+  left: 77px;
+  width: 590.4px;
+  height: 655px;
+  object-fit: cover;
+}
+.property-1variant3 {
+  position: absolute;
+  top: 2106px;
+  left: 20px;
+  background-color: var(--color-white);
+  width: 735px;
+  height: 1023px;
+  overflow: hidden;
+}
+.component-image1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 3149px;
+  overflow: hidden;
+}
